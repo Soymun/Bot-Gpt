@@ -1,0 +1,8 @@
+bot:
+  name: Sage
+  token: 5711269492:AAFGFOR4omaujdy0yFoDB_0M26sp8-aW96s
+gpt:
+  key: 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
+server:
+  tomcat:
+    keep-alive-timeout: -1
